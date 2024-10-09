@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import * as pi from "./math.js";
 
-ReactDOM.render(
+ReactDOM(
   <ul>
     <li>{pi.default}</li>
     <li>{pi.doublePi()}</li>
